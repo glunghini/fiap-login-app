@@ -49,7 +49,7 @@ De acordo com os requisitos solicitados, o projeto utiliza os seguintes elemento
 ### Passo a Passo
 1. Clone este repositório:
 ```bash
-git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
+git clone [https://github.com/glunghini/fiap-login-app.git](https://github.com/glunghini/fiap-login-app.git)
 ```
 2. Instale as dependências:
 ```bash
