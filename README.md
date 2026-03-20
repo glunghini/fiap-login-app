@@ -19,7 +19,8 @@ De acordo com os requisitos solicitados, o projeto utiliza os seguintes elemento
 ## Documentação da Tela
 
 ### Print da Tela Desenvolvida
-(Insira aqui o link ou o arquivo da imagem da tela funcionando)
+<img width="373" height="791" alt="image" src="https://github.com/user-attachments/assets/566b4e56-a970-4e24-ab00-5f5b17a5c9f8" />
+
 
 ### Funcionalidades
 * Alternância de Tema: Botão toggle que altera entre modo claro e modo escuro.
@@ -28,9 +29,11 @@ De acordo com os requisitos solicitados, o projeto utiliza os seguintes elemento
 * Splash Screen: Tela de carregamento personalizada com fundo preto e logo da FIAP.
 
 ## Integrantes do Grupo
-* Nome do Integrante 1 - RM00000
-* Nome do Integrante 2 - RM00000
-* Nome do Integrante 3 - RM00000
+* Guilherme Lunghini Teixeira - RM556892
+* David Cordeiro - RM557538
+* Marchel Augusto - RM99856
+* Tiago Morais - RM55619
+* Vinicius Augusto - RM557065
 
 ## Tecnologias Utilizadas
 * Expo
