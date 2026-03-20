@@ -1,5 +1,11 @@
 # Projeto Login FIAP - React Native
 
+## Integrantes do Grupo
+* Guilherme Lunghini Teixeira - RM556892
+* David Cordeiro - RM557538
+* Marchel Augusto - RM99856
+* Tiago Morais - RM55619
+* Vinicius Augusto - RM557065
 Este projeto consiste em uma tela de login desenvolvida para a FIAP utilizando React Native com Expo, TypeScript e estilização via StyleSheet e NativeWind. O foco principal é a entrega de uma interface funcional que respeite a identidade visual da instituição e ofereça recursos modernos de usabilidade.
 
 ## Descrição do Projeto
@@ -28,12 +34,7 @@ De acordo com os requisitos solicitados, o projeto utiliza os seguintes elemento
 * Mascara de Dados: Formatação automática do campo de telefone para o padrão brasileiro.
 * Splash Screen: Tela de carregamento personalizada com fundo preto e logo da FIAP.
 
-## Integrantes do Grupo
-* Guilherme Lunghini Teixeira - RM556892
-* David Cordeiro - RM557538
-* Marchel Augusto - RM99856
-* Tiago Morais - RM55619
-* Vinicius Augusto - RM557065
+
 
 ## Tecnologias Utilizadas
 * Expo
