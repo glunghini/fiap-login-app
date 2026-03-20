@@ -42,13 +42,21 @@ De acordo com os requisitos solicitados, o projeto utiliza os seguintes elemento
 * NativeWind
 
 ## Como Executar o Projeto
+### Pré-requisitos
+* Node.js instalado.
+* Aplicativo Expo Go instalado no dispositivo móvel.
 
-1. Instale as dependências:
+### Passo a Passo
+1. Clone este repositório:
+```bash
+git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
+```
+2. Instale as dependências:
 ```bash
 npm install
 ```
-2.Inicie o servidor de desenvolvimento:
+3.Inicie o servidor de desenvolvimento:
 ```bash
 npx expo start -c
 ```
-3.Utilize o aplicativo Expo Go para visualizar o projeto no dispositivo móvel.
+4.Utilize o aplicativo Expo Go para visualizar o projeto no dispositivo móvel.
