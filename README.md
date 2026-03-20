@@ -7,9 +7,9 @@
 * Tiago Morais - RM55619
 * Vinicius Augusto - RM557065
 
-Este projeto consiste em uma tela de login desenvolvida para a FIAP utilizando React Native com Expo, TypeScript e estilização via StyleSheet e NativeWind. O foco principal é a entrega de uma interface funcional que respeite a identidade visual da instituição e ofereça recursos modernos de usabilidade.
 
 ## Descrição do Projeto
+Este projeto consiste em uma tela de login desenvolvida para a FIAP utilizando React Native com Expo, TypeScript e estilização via StyleSheet e NativeWind. O foco principal é a entrega de uma interface funcional que respeite a identidade visual da instituição e ofereça recursos modernos de usabilidade.
 
 ### Ideia Principal
 A aplicação foi estruturada para simular um fluxo de autenticação real, permitindo ao usuário escolher entre diferentes métodos de identificação e personalizar a visualização da interface.
